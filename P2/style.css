@@ -1,0 +1,35 @@
+body{
+    background-color: #D5E1EF;
+}
+
+.container{
+    background-color:white;
+    height: 400px;
+    width: 250px;
+    align-items: center;
+    margin: 100px;
+    border-radius: 20px;
+}
+
+.pic{
+       height: 200px;
+       width: 200px;
+       margin-top: 20px;
+       border-radius: 10px;
+          
+}
+
+
+.font{
+    font-size: 17px;
+    /* font-family:  */
+    font-family: 'Outfit', sans-serif;
+}
+
+.attribution{
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    margin-bottom: 2%;
+}
+
