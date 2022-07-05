@@ -1,0 +1,100 @@
+.navbar-brand{
+    font-family:'Pacifico';
+    font-style: italic;
+}
+
+
+.inpic{
+    width: 100%;
+    height: 100vh;
+
+}
+
+.part1 .p{
+    /* padding-top: 2px; */
+}
+
+.inpic_detail{
+    margin:20%;
+}
+
+.section_2{
+    height: 80vh;
+    width: 100%;
+    background-image: url(./asset/image2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section_4{
+    height: 80vh;
+    width: 100%;
+    margin-top: 10px;
+    background-image: url(./asset/image3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section_4 .conatiner_fluid{
+    width: 100%;
+    height: 90vh;
+}
+
+.text_details{
+    padding: 150px;
+}
+.icons{
+    color:lightseagreen;
+}
+/* .section_6{
+    width: 100%;
+    height: 80vh;
+} */
+
+
+.join_btn{
+    width: 10rem;
+
+}
+.section6_textdetails{
+    line-height: 3;
+    font-family: righetous;
+    font-weight: 500px;
+}
+
+.textdetails h2 p{
+    font-size:500px;
+}
+.input_text{
+    width: 30%;
+    padding: 2.6px;
+}
+
+.btn7{
+    margin-left: 0.5rem;
+}
+
+.controls{
+    margin-top:2rem ;
+}
+
+.icons{
+    margin: 4rem;
+}
+
+.fb{
+    color: rgb(66,103,178);
+}
+
+.tw{
+    color: rgb(85,172,239);
+}
+
+.yt{
+    color: rgb(255,0,0);
+}
+
+.foot{
+    font-size:2rem;
+    color: greenyellow;
+}
